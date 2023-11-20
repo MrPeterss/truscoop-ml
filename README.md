@@ -1,4 +1,4 @@
-# news-app
+# truscoop-ml
 
 ### Link to other files:
 
