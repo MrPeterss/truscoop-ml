@@ -59,5 +59,3 @@ def handle_incoming_url(url):
     except:
         print("Error: article not found")
         return None
-
-handle_incoming_url("https://www.foxnews.com/politics/doj-request-protective-order-trumps-election-fraud-case-over-social-media-posts")
